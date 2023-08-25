@@ -17,7 +17,7 @@ This project serves as a practical guide for learning how to implement routing i
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/NdnHnnt/test-react-routing.git
+   git clone https://github.com/NdnHnnt/personalProject-testReactRouting.git
    ```
 
 2. **Navigate to the Project Directory**: Move into the project directory:
